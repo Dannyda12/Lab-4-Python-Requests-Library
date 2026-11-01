@@ -1,0 +1,31 @@
+[
+  {
+    "success": true,
+    "deck_id": "ba6s2anp55rc",
+    "cards": [
+      {
+        "code": "KC",
+        "image": "https://deckofcardsapi.com/static/img/KC.png",
+        "images": {
+          "svg": "https://deckofcardsapi.com/static/img/KC.svg",
+          "png": "https://deckofcardsapi.com/static/img/KC.png"
+        },
+        "value": "KING",
+        "suit": "CLUBS",
+        "rank": 13
+      },
+      {
+        "code": "4D",
+        "image": "https://deckofcardsapi.com/static/img/4D.png",
+        "images": {
+          "svg": "https://deckofcardsapi.com/static/img/4D.svg",
+          "png": "https://deckofcardsapi.com/static/img/4D.png"
+        },
+        "value": "4",
+        "suit": "DIAMONDS",
+        "rank": 4
+      }
+    ],
+    "remaining": 50
+  }
+]
